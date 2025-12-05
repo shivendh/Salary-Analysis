@@ -69,10 +69,10 @@ pip install -r requirements.txt
 5. Open salary_analysis.ipynb and run all cells to reproduce the analysis and visualizations
 
 ## 📊 Expected Deliverables & Insights
--Distribution plots of salary (overall and per group)
--Correlation or comparative analysis between salary and features (experience, role, demographics, etc.)
--Identification of trends, outliers, and interesting patterns
--A clear understanding of how different factors influence pay
+- Distribution plots of salary (overall and per group)
+- Correlation or comparative analysis between salary and features (experience, role, demographics, etc.)
+- Identification of trends, outliers, and interesting patterns
+- A clear understanding of how different factors influence pay
 
 ## 🧩 Potential Use Cases
 - Salary benchmarking and comparison analysis
